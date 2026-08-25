@@ -1,4 +1,4 @@
-# ONLY-FOR-MY-LOVE — Purple Leena Edition 💜
+# LEENA ML
 
 This version is **ready for GitHub Pages**. No Node.js or build step is required.
 
